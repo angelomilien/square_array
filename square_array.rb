@@ -16,5 +16,6 @@ def collect(array)
   puts enu1
 end
 
+
 collect(num)
 
